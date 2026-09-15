@@ -5,6 +5,14 @@ Clubfoot Data Analysis - Business Analyst Internship Project | Power BI
 This project was completed as part of my business Analyst Internship.
 The project analyzes reported clubfoot cases and treatment - centre distribution across six Nigerian states using power BI.
 
+## Business Questions
+- Which states have the highest reported number of cases?
+- Which states have the highest reported prevalence/rate?
+- Which states have the largest estimated number of expected cases based on births?
+- How do rankings change when population/births are considered?
+- How does estimated need compare with available treatment service?
+- Where are treatment centres geographically distributed?
+
 ## Tools Used
 - Power BI
 - Power Query
