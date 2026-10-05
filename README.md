@@ -87,7 +87,8 @@ The project analyzes reported clubfoot cases and treatment - centre distribution
   
    The Power BI dashboard is available as a PDF in this repository.
 
- ## RECOMMENDATIONS
+   ## RECOMMENDATIONS
+  
  - Prioritize areas with higher reported/estimated need.
    Use the available case and birth-related information to identify states that may require greater attention and further assessment.
  - Investigate states with zero reported cases.
