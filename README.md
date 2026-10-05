@@ -82,7 +82,11 @@ The project analyzes reported clubfoot cases and treatment - centre distribution
     Future data collection should include consistent population, annual births, treatment enrolment, treatment outcomes, referral
      sources, patient location, and treatment centre capacity.
     This would allow more accurate measurement of prevalence, estimated need, treatment coverage, and unmet need.
- 
+    
+  ## Dashboard
+  
+   The Power BI dashboard is available as a PDF in this repository.
+
  ## RECOMMENDATIONS
  - Prioritize areas with higher reported/estimated need.
    Use the available case and birth-related information to identify states that may require greater attention and further assessment.
@@ -97,7 +101,5 @@ The project analyzes reported clubfoot cases and treatment - centre distribution
    centre capacity. This would allow more accurate calculations of prevalence, treatment coverage, and unmet need.
     
 
-   ## Dashboard
-   The Power BI dashboard is available as a PDF in this repository.
-
+  
     
